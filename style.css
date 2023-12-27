@@ -4,6 +4,11 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+#main{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
 .fr-aic{
     display: flex;
     align-items: center;
